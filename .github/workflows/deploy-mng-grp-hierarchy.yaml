@@ -1,0 +1,38 @@
+name: DeployMngGrpHierarchy
+on:
+  push:
+    branches:
+      - tobereplacedwithrelevantbranch
+    paths:
+      - src/mnggrp/mngGrpMaster.fsx
+jobs:
+  build:
+    name: Build
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest]
+    steps:
+      - name: Get the sources
+        uses: actions/checkout@v2
+
+      - name: Fetch all history for all tags and branches
+        run: git fetch --prune --unshallow
+
+      - name: Install .NET Core SDK 5.0.400
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '5.0.400'
+
+      - name: Install Dotnet Tools
+        run: dotnet tool restore
+
+      - name: Paket restore
+        run: dotnet paket restore
+        
+      - name: Paket generate fsx loaders
+        run: dotnet paket generate-load-scripts --type fsx
+        
+      - name: Create/Update hierarchy
+        run: dotnet fsi ./src/deployMngGrp.fsx ${{secrets.TENANT_ID}} ${{secrets.CLIENT_ID}} ${{secrets.CLIENT_SECRET}} ${{secrets.ANCHOR_ID}}
