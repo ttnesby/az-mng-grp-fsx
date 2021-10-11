@@ -1,6 +1,6 @@
-# mnggrp-fsx
+# az-mng-grp-fsx
 
-mnggrp-fsx repo motivations
+Repo motivations
 > - learn F#, trying to be functional with strong typing using fsx-files
 > - escape from whatever `sln` or `prj` details with builds, just focus on fsx-files
 > - Jetbrain Rider or Visual Code shouldn't matter, should be interchangeable
