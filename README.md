@@ -121,11 +121,11 @@ let groups () =
 `DisplayName` as None means lowercase of DU name. E.g. `Landingzones` will become `landingzones`.
 
 Funtion `Hierarchy.toAPI` will create a list of list of (childName, childDisplayName, ParentName), taking care of the order dependency between hierarchial mangement groups.
-> 1st list contains (topName, topDisplayName, anchorName)
-> 2nd list contains children of top
-> 3rd list contains children of children of top
-> ...
-> Last list contains all leaves
+> 1st list contains (topName, topDisplayName, anchorName)  
+> 2nd list contains children of top  
+> 3rd list contains children of children of top  
+> ...  
+> Last list contains all leaves  
 
 ## `src/az_cli`
 
