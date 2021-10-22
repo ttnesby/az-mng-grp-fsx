@@ -1,0 +1,2082 @@
+{
+    "status": "succeeded",
+    "createdDateTime": "2021-10-22T19:05:35Z",
+    "lastUpdatedDateTime": "2021-10-22T19:05:36Z",
+    "analyzeResult": {
+      "version": "3.2.0",
+      "modelVersion": "2021-04-12",
+      "readResults": [{
+        "page": 1,
+        "angle": 0.3351,
+        "width": 3072,
+        "height": 4096,
+        "unit": "pixel",
+        "language": "no",
+        "lines": [{
+          "boundingBox": [2195, 156, 2843, 153, 2844, 227, 2195, 229],
+          "text": "GPS-KOORDINATER",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2197, 159, 2820, 153, 2818, 229, 2196, 229],
+            "text": "GPS-KOORDINATER",
+            "confidence": 0.984
+          }]
+        }, {
+          "boundingBox": [352, 352, 1581, 369, 1580, 445, 352, 429],
+          "text": "GPS-KOORDINATER 2020-2023",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [353, 352, 1104, 363, 1106, 441, 355, 430],
+            "text": "GPS-KOORDINATER",
+            "confidence": 0.985
+          }, {
+            "boundingBox": [1136, 364, 1573, 369, 1574, 445, 1138, 441],
+            "text": "2020-2023",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1637, 381, 2172, 384, 2172, 443, 1637, 439],
+          "text": "26 Hakklokroktjern",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1656, 382, 1721, 382, 1724, 441, 1660, 441],
+            "text": "26",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1733, 382, 2159, 384, 2156, 444, 1737, 441],
+            "text": "Hakklokroktjern",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2332, 378, 2861, 371, 2862, 435, 2333, 442],
+          "text": "(0592175 6662926)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2332, 380, 2575, 377, 2577, 438, 2335, 442],
+            "text": "(0592175",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2588, 377, 2857, 371, 2859, 437, 2590, 438],
+            "text": "6662926)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [356, 532, 891, 544, 889, 609, 355, 597],
+          "text": "1 Leina Kanonpost",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [357, 532, 398, 534, 397, 599, 356, 599],
+            "text": "1",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [430, 535, 577, 539, 576, 602, 428, 600],
+            "text": "Leina",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [590, 539, 891, 545, 890, 609, 589, 602],
+            "text": "Kanonpost",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1035, 544, 1550, 546, 1549, 610, 1035, 608],
+          "text": "(0587780 6616040)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1035, 545, 1281, 547, 1280, 610, 1036, 609],
+            "text": "(0587780",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1294, 547, 1551, 547, 1549, 611, 1294, 610],
+            "text": "6616040)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1656, 516, 2221, 516, 2221, 575, 1656, 575],
+          "text": "27 Ved Hakkloelvens",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1660, 516, 1722, 516, 1722, 576, 1659, 576],
+            "text": "27",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [1733, 516, 1841, 516, 1841, 576, 1733, 576],
+            "text": "Ved",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [1854, 516, 2217, 516, 2218, 575, 1854, 576],
+            "text": "Hakkloelvens",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1740, 607, 1935, 608, 1935, 655, 1740, 654],
+          "text": "østside",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1743, 608, 1925, 609, 1923, 656, 1741, 655],
+            "text": "østside",
+            "confidence": 0.993
+          }]
+        }, {
+          "boundingBox": [2330, 598, 2855, 595, 2855, 658, 2330, 661],
+          "text": "(0593577 6661900)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2331, 600, 2579, 598, 2580, 659, 2331, 661],
+            "text": "(0593577",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2591, 598, 2854, 596, 2855, 660, 2592, 659],
+            "text": "6661900)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [353, 670, 815, 672, 814, 735, 352, 733],
+          "text": "2 Aukeåsen 213",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [358, 670, 395, 671, 393, 734, 356, 734],
+            "text": "2",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [434, 672, 706, 675, 704, 735, 432, 734],
+            "text": "Aukeåsen",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [720, 675, 813, 674, 812, 735, 718, 735],
+            "text": "213",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1036, 684, 1553, 685, 1552, 743, 1036, 741],
+          "text": "(0583054 6624152)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1036, 685, 1285, 685, 1284, 741, 1037, 741],
+            "text": "(0583054",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1301, 685, 1552, 686, 1548, 744, 1299, 741],
+            "text": "6624152)",
+            "confidence": 0.991
+          }]
+        }, {
+          "boundingBox": [1649, 733, 2191, 736, 2191, 794, 1649, 789],
+          "text": "28 «No Time to Die»",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1656, 733, 1720, 734, 1721, 790, 1657, 789],
+            "text": "28",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [1732, 734, 1840, 734, 1840, 792, 1733, 790],
+            "text": "«No",
+            "confidence": 0.698
+          }, {
+            "boundingBox": [1855, 734, 1984, 735, 1984, 794, 1855, 792],
+            "text": "Time",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1996, 735, 2051, 736, 2050, 794, 1996, 794],
+            "text": "to",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [2061, 736, 2187, 737, 2185, 794, 2060, 794],
+            "text": "Die»",
+            "confidence": 0.931
+          }]
+        }, {
+          "boundingBox": [2321, 733, 2873, 731, 2873, 797, 2321, 798],
+          "text": "(0598255 6665040)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2322, 736, 2587, 734, 2587, 797, 2324, 798],
+            "text": "(0598255",
+            "confidence": 0.991
+          }, {
+            "boundingBox": [2600, 734, 2872, 732, 2871, 798, 2600, 797],
+            "text": "6665040)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [363, 805, 1552, 813, 1551, 876, 363, 867],
+          "text": "3 Bøsetra, ved utsikten (0574207 6635075)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [364, 805, 402, 806, 403, 867, 365, 867],
+            "text": "3",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [435, 807, 656, 811, 657, 870, 436, 868],
+            "text": "Bøsetra,",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [668, 811, 768, 812, 769, 871, 669, 870],
+            "text": "ved",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [781, 812, 990, 814, 989, 873, 782, 871],
+            "text": "utsikten",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1023, 814, 1280, 815, 1280, 876, 1023, 874],
+            "text": "(0574207",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1292, 815, 1551, 814, 1550, 877, 1292, 876],
+            "text": "6635075)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1643, 860, 2838, 866, 2838, 931, 1643, 927],
+          "text": "29 Fuglemyrhøgda 456 (0596831 6662261)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1653, 861, 1718, 862, 1715, 927, 1651, 926],
+            "text": "29",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [1730, 862, 2145, 866, 2145, 931, 1728, 927],
+            "text": "Fuglemyrhøgda",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2158, 866, 2264, 867, 2264, 931, 2158, 931],
+            "text": "456",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [2312, 867, 2569, 868, 2570, 931, 2312, 931],
+            "text": "(0596831",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2582, 868, 2835, 867, 2837, 931, 2583, 931],
+            "text": "6662261)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [367, 946, 419, 945, 414, 998, 362, 998],
+          "text": "4",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [362, 945, 395, 945, 396, 998, 362, 998],
+            "text": "4",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [441, 946, 915, 950, 914, 1005, 441, 1001],
+          "text": "Haagensenovnen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [444, 947, 902, 953, 900, 1003, 441, 1000],
+            "text": "Haagensenovnen",
+            "confidence": 0.836
+          }]
+        }, {
+          "boundingBox": [1033, 945, 1558, 945, 1558, 1006, 1033, 1006],
+          "text": "(0585527 6636490)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1033, 945, 1282, 946, 1283, 1004, 1035, 1007],
+            "text": "(0585527",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1295, 946, 1558, 946, 1557, 1006, 1295, 1004],
+            "text": "6636490)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1648, 992, 1968, 1000, 1967, 1061, 1646, 1053],
+          "text": "30 Skåltjern",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1654, 992, 1722, 994, 1718, 1056, 1650, 1054],
+            "text": "30",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1735, 995, 1967, 1003, 1964, 1061, 1731, 1057],
+            "text": "Skåltjern",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2320, 1004, 2842, 1004, 2842, 1065, 2320, 1063],
+          "text": "(0602301 6660679)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2321, 1005, 2571, 1005, 2573, 1063, 2323, 1064],
+            "text": "(0602301",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2583, 1005, 2843, 1005, 2843, 1066, 2584, 1063],
+            "text": "6660679)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [366, 1069, 692, 1080, 690, 1142, 366, 1133],
+          "text": "5 OL-skog",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [366, 1070, 407, 1071, 409, 1136, 369, 1135],
+            "text": "5",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [438, 1072, 684, 1081, 682, 1142, 440, 1136],
+            "text": "OL-skog",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1023, 1076, 1559, 1078, 1559, 1140, 1023, 1137],
+          "text": "(0578630 6639055)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1024, 1077, 1279, 1078, 1279, 1136, 1026, 1138],
+            "text": "(0578630",
+            "confidence": 0.991
+          }, {
+            "boundingBox": [1292, 1078, 1559, 1078, 1556, 1141, 1292, 1136],
+            "text": "6639055)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1648, 1127, 1978, 1132, 1977, 1188, 1647, 1183],
+          "text": "31 Glåmene",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1657, 1128, 1720, 1130, 1718, 1186, 1654, 1185],
+            "text": "31",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1732, 1131, 1972, 1134, 1972, 1188, 1730, 1186],
+            "text": "Glåmene",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2321, 1133, 2808, 1135, 2808, 1199, 2320, 1197],
+          "text": "(0591817 6657651)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2322, 1133, 2545, 1136, 2545, 1199, 2321, 1199],
+            "text": "(0591817",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2558, 1136, 2804, 1136, 2806, 1199, 2558, 1199],
+            "text": "6657651)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [370, 1206, 739, 1209, 738, 1270, 370, 1267],
+          "text": "6 Ringivollen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [370, 1206, 404, 1208, 404, 1268, 370, 1268],
+            "text": "6",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [441, 1210, 733, 1211, 733, 1269, 441, 1269],
+            "text": "Ringivollen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1024, 1209, 1533, 1209, 1533, 1271, 1024, 1270],
+          "text": "(0577615 6642349)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1024, 1211, 1261, 1213, 1262, 1270, 1025, 1271],
+            "text": "(0577615",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1273, 1213, 1532, 1210, 1534, 1272, 1274, 1270],
+            "text": "6642349)",
+            "confidence": 0.992
+          }]
+        }, {
+          "boundingBox": [1653, 1260, 1996, 1262, 1995, 1323, 1652, 1321],
+          "text": "32 Helgheim",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1657, 1261, 1717, 1263, 1715, 1323, 1656, 1321],
+            "text": "32",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [1728, 1264, 1974, 1266, 1971, 1321, 1727, 1323],
+            "text": "Helgheim",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [2322, 1269, 2835, 1271, 2834, 1336, 2321, 1332],
+          "text": "(0597503 6656971)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2324, 1269, 2573, 1270, 2571, 1332, 2322, 1332],
+            "text": "(0597503",
+            "confidence": 0.971
+          }, {
+            "boundingBox": [2585, 1270, 2832, 1272, 2830, 1337, 2583, 1332],
+            "text": "6656971)",
+            "confidence": 0.993
+          }]
+        }, {
+          "boundingBox": [367, 1338, 792, 1340, 791, 1404, 367, 1402],
+          "text": "7 Lysakerelven",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [368, 1339, 404, 1340, 403, 1403, 367, 1403],
+            "text": "7",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [438, 1341, 784, 1343, 784, 1402, 437, 1404],
+            "text": "Lysakerelven",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1025, 1341, 1561, 1342, 1561, 1407, 1025, 1405],
+          "text": "(0590853 6643900)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1027, 1341, 1283, 1342, 1281, 1407, 1025, 1406],
+            "text": "(0590853",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1296, 1342, 1562, 1344, 1561, 1407, 1294, 1407],
+            "text": "6643900)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1645, 1393, 2168, 1397, 2167, 1459, 1644, 1455],
+          "text": "33 Høyde 334, vest",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1650, 1393, 1712, 1394, 1710, 1457, 1648, 1456],
+            "text": "33",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [1725, 1394, 1907, 1396, 1905, 1459, 1722, 1458],
+            "text": "Høyde",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1920, 1396, 2031, 1397, 2029, 1459, 1917, 1459],
+            "text": "334,",
+            "confidence": 0.986
+          }, {
+            "boundingBox": [2044, 1398, 2169, 1400, 2167, 1459, 2042, 1459],
+            "text": "vest",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [368, 1473, 990, 1476, 990, 1536, 368, 1533],
+          "text": "8 Øyervannsdammen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [371, 1473, 405, 1474, 402, 1534, 368, 1534],
+            "text": "8",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [441, 1474, 950, 1477, 950, 1536, 439, 1535],
+            "text": "Øyervannsdammen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1014, 1475, 1557, 1477, 1556, 1540, 1014, 1538],
+          "text": "(0584893 6648826)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1018, 1476, 1281, 1476, 1280, 1538, 1019, 1540],
+            "text": "(0584893",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1293, 1476, 1557, 1479, 1556, 1541, 1293, 1538],
+            "text": "6648826)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1738, 1473, 2112, 1477, 2111, 1543, 1737, 1538],
+          "text": "Lille Åklungen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1739, 1473, 1831, 1475, 1830, 1540, 1738, 1538],
+            "text": "Lille",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1844, 1475, 2100, 1477, 2100, 1544, 1842, 1540],
+            "text": "Åklungen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2320, 1482, 2823, 1486, 2822, 1547, 2319, 1541],
+          "text": "(0595630 6651778)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2321, 1483, 2568, 1486, 2567, 1544, 2319, 1539],
+            "text": "(0595630",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2588, 1486, 2823, 1486, 2822, 1548, 2586, 1544],
+            "text": "6651778)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [371, 1602, 1554, 1609, 1554, 1672, 371, 1664],
+          "text": "9 Portstolpene ved Kråka (0589674 6649536)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [372, 1603, 410, 1603, 411, 1665, 372, 1665],
+            "text": "9",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [440, 1603, 752, 1603, 751, 1668, 440, 1666],
+            "text": "Portstolpene",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [764, 1604, 853, 1604, 852, 1669, 763, 1668],
+            "text": "ved",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [865, 1604, 1011, 1605, 1009, 1670, 864, 1669],
+            "text": "Kråka",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1023, 1605, 1283, 1608, 1279, 1672, 1021, 1670],
+            "text": "(0589674",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1295, 1609, 1555, 1613, 1551, 1672, 1291, 1672],
+            "text": "6649536)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1647, 1611, 2139, 1615, 2139, 1669, 1647, 1666],
+          "text": "34 Bob-banen ved",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1652, 1611, 1711, 1613, 1710, 1667, 1650, 1665],
+            "text": "34",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [1726, 1614, 2012, 1617, 2013, 1669, 1725, 1667],
+            "text": "Bob-banen",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2027, 1616, 2122, 1615, 2124, 1669, 2028, 1669],
+            "text": "ved",
+            "confidence": 0.997
+          }]
+        }, {
+          "boundingBox": [362, 1734, 916, 1736, 916, 1795, 362, 1794],
+          "text": "10 Lommedalsbanen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [366, 1735, 425, 1736, 425, 1795, 366, 1795],
+            "text": "10",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [438, 1736, 906, 1739, 906, 1795, 438, 1795],
+            "text": "Lommedalsbanen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1033, 1741, 1557, 1741, 1556, 1803, 1033, 1800],
+          "text": "(0582798 6650334)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1034, 1742, 1279, 1742, 1281, 1800, 1035, 1800],
+            "text": "(0582798",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1291, 1742, 1555, 1742, 1556, 1804, 1293, 1800],
+            "text": "6650334)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1729, 1696, 1986, 1696, 1986, 1753, 1729, 1753],
+          "text": "«Veggen»",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1733, 1697, 1987, 1696, 1984, 1754, 1730, 1752],
+            "text": "«Veggen»",
+            "confidence": 0.986
+          }]
+        }, {
+          "boundingBox": [2314, 1694, 2834, 1697, 2833, 1761, 2314, 1757],
+          "text": "(0593997 6649755)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2315, 1695, 2565, 1695, 2565, 1759, 2317, 1758],
+            "text": "(0593997",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2578, 1695, 2834, 1700, 2832, 1762, 2577, 1759],
+            "text": "6649755)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [378, 1867, 735, 1866, 736, 1922, 378, 1923],
+          "text": "11 Menuetten",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [379, 1868, 423, 1868, 423, 1923, 378, 1923],
+            "text": "11",
+            "confidence": 0.928
+          }, {
+            "boundingBox": [450, 1869, 722, 1867, 722, 1922, 449, 1924],
+            "text": "Menuetten",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1023, 1870, 1512, 1870, 1512, 1933, 1023, 1931],
+          "text": "(0572915 6651105)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1023, 1872, 1265, 1870, 1265, 1933, 1027, 1933],
+            "text": "(0572915",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1277, 1870, 1512, 1873, 1510, 1934, 1277, 1933],
+            "text": "6651105)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1640, 1820, 2162, 1823, 2162, 1885, 1640, 1882],
+          "text": "35 Brennberget 441",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1648, 1821, 1710, 1822, 1709, 1882, 1647, 1880],
+            "text": "35",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [1722, 1823, 2056, 1825, 2054, 1885, 1721, 1882],
+            "text": "Brennberget",
+            "confidence": 0.991
+          }, {
+            "boundingBox": [2068, 1825, 2162, 1823, 2160, 1884, 2066, 1885],
+            "text": "441",
+            "confidence": 0.998
+          }]
+        }, {
+          "boundingBox": [2315, 1826, 2842, 1828, 2841, 1894, 2315, 1890],
+          "text": "(0603553 6655242)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2315, 1827, 2565, 1827, 2563, 1889, 2316, 1889],
+            "text": "(0603553",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2577, 1827, 2841, 1829, 2837, 1895, 2575, 1890],
+            "text": "6655242)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1022, 2000, 1527, 2000, 1527, 2062, 1022, 2063],
+          "text": "(0577537 6653917)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1022, 2001, 1266, 2001, 1267, 2061, 1025, 2064],
+            "text": "(0577537",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1278, 2001, 1524, 2001, 1523, 2062, 1279, 2061],
+            "text": "6653917)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1643, 1949, 2119, 1970, 2116, 2032, 1640, 2008],
+          "text": "36 Kampen S / 0.",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1647, 1950, 1708, 1952, 1705, 2011, 1644, 2008],
+            "text": "36",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1720, 1952, 1937, 1962, 1933, 2023, 1716, 2012],
+            "text": "Kampen",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1957, 1963, 1990, 1965, 1986, 2026, 1953, 2025],
+            "text": "S",
+            "confidence": 0.519
+          }, {
+            "boundingBox": [2014, 1966, 2040, 1967, 2036, 2029, 2010, 2028],
+            "text": "/",
+            "confidence": 0.504
+          }, {
+            "boundingBox": [2052, 1968, 2118, 1972, 2114, 2033, 2048, 2030],
+            "text": "0.",
+            "confidence": 0.066
+          }]
+        }, {
+          "boundingBox": [373, 1998, 903, 2003, 903, 2056, 373, 2053],
+          "text": "12 Dammersplassen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [374, 1999, 427, 1999, 427, 2055, 374, 2054],
+            "text": "12",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [442, 1998, 891, 2008, 890, 2056, 442, 2055],
+            "text": "Dammersplassen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2302, 1958, 2802, 1961, 2802, 2024, 2302, 2020],
+          "text": "(0601372 6651347)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2302, 1960, 2547, 1959, 2546, 2021, 2304, 2019],
+            "text": "(0601372",
+            "confidence": 0.991
+          }, {
+            "boundingBox": [2560, 1959, 2803, 1962, 2800, 2025, 2559, 2021],
+            "text": "6651347)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [378, 2127, 721, 2132, 720, 2187, 377, 2183],
+          "text": "13 Lysegrana",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [381, 2127, 431, 2129, 428, 2185, 378, 2184],
+            "text": "13",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [443, 2129, 715, 2136, 713, 2187, 440, 2186],
+            "text": "Lysegrana",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1033, 2128, 1536, 2129, 1536, 2191, 1033, 2190],
+          "text": "(0586280 6657471)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1034, 2128, 1284, 2129, 1283, 2190, 1034, 2191],
+            "text": "(0586280",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1296, 2129, 1536, 2131, 1534, 2191, 1295, 2190],
+            "text": "6657471)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1621, 2081, 2113, 2087, 2112, 2149, 1621, 2143],
+          "text": "(37 Sherpatrappen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1621, 2081, 1708, 2083, 1711, 2144, 1626, 2140],
+            "text": "(37",
+            "confidence": 0.201
+          }, {
+            "boundingBox": [1724, 2083, 2105, 2088, 2104, 2148, 1727, 2145],
+            "text": "Sherpatrappen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2301, 2091, 2813, 2092, 2813, 2151, 2301, 2149],
+          "text": "(0608404 6649416)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2302, 2092, 2562, 2092, 2562, 2149, 2304, 2150],
+            "text": "(0608404",
+            "confidence": 0.991
+          }, {
+            "boundingBox": [2574, 2092, 2814, 2092, 2813, 2152, 2574, 2149],
+            "text": "6649416)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [377, 2254, 795, 2261, 794, 2318, 376, 2312],
+          "text": "14 Sersjantmyra",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [378, 2255, 433, 2256, 432, 2314, 376, 2313],
+            "text": "14",
+            "confidence": 0.979
+          }, {
+            "boundingBox": [453, 2257, 787, 2262, 787, 2318, 452, 2314],
+            "text": "Sersjantmyra",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1032, 2259, 1552, 2259, 1552, 2318, 1032, 2319],
+          "text": "(0580395 6658849)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1032, 2260, 1283, 2259, 1283, 2317, 1033, 2320],
+            "text": "(0580395",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1295, 2259, 1552, 2260, 1551, 2318, 1295, 2317],
+            "text": "6658849)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1640, 2209, 2069, 2218, 2067, 2280, 1639, 2269],
+          "text": "38 Haralds bolig",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1644, 2209, 1705, 2211, 1703, 2269, 1642, 2267],
+            "text": "38",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [1716, 2211, 1921, 2215, 1918, 2276, 1714, 2269],
+            "text": "Haralds",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1932, 2215, 2064, 2218, 2060, 2281, 1929, 2276],
+            "text": "bolig",
+            "confidence": 0.996
+          }]
+        }, {
+          "boundingBox": [2308, 2220, 2805, 2222, 2804, 2281, 2308, 2279],
+          "text": "(0601056 6647979)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2308, 2220, 2545, 2222, 2546, 2279, 2309, 2280],
+            "text": "(0601056",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2558, 2222, 2802, 2223, 2803, 2282, 2559, 2279],
+            "text": "6647979)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [381, 2383, 579, 2385, 578, 2441, 380, 2439],
+          "text": "15 Såta",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [384, 2383, 436, 2384, 433, 2440, 381, 2439],
+            "text": "15",
+            "confidence": 0.976
+          }, {
+            "boundingBox": [455, 2384, 574, 2386, 570, 2442, 452, 2441],
+            "text": "Såta",
+            "confidence": 0.992
+          }]
+        }, {
+          "boundingBox": [1031, 2387, 1521, 2387, 1521, 2450, 1031, 2449],
+          "text": "(0584791 6661954)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1031, 2389, 1260, 2387, 1260, 2446, 1031, 2449],
+            "text": "(0584791",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1272, 2387, 1519, 2389, 1519, 2451, 1272, 2446],
+            "text": "6661954)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1639, 2337, 2185, 2344, 2185, 2403, 1638, 2398],
+          "text": "39 Rudskampen 585",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1645, 2338, 1703, 2340, 1701, 2399, 1642, 2398],
+            "text": "39",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [1715, 2340, 2059, 2347, 2056, 2403, 1712, 2399],
+            "text": "Rudskampen",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2072, 2347, 2181, 2347, 2177, 2403, 2069, 2403],
+            "text": "585",
+            "confidence": 0.997
+          }]
+        }, {
+          "boundingBox": [2310, 2347, 2798, 2349, 2798, 2410, 2310, 2408],
+          "text": "(0603142 6677658)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2310, 2348, 2539, 2351, 2539, 2410, 2310, 2409],
+            "text": "(0603142",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2551, 2351, 2798, 2351, 2798, 2410, 2551, 2410],
+            "text": "6677658)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [380, 2509, 754, 2521, 753, 2575, 380, 2564],
+          "text": "16 Mørkganga",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [381, 2510, 434, 2512, 433, 2567, 381, 2565],
+            "text": "16",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [453, 2512, 750, 2522, 746, 2575, 452, 2568],
+            "text": "Mørkganga",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1023, 2516, 1532, 2516, 1532, 2577, 1023, 2576],
+          "text": "(0576079 6662891)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1024, 2516, 1275, 2516, 1276, 2575, 1026, 2577],
+            "text": "(0576079",
+            "confidence": 0.993
+          }, {
+            "boundingBox": [1287, 2516, 1533, 2518, 1532, 2578, 1288, 2575],
+            "text": "6662891)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1639, 2467, 2012, 2474, 2011, 2532, 1638, 2526],
+          "text": "40 Kroktjernet",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1639, 2467, 1703, 2469, 1703, 2528, 1639, 2525],
+            "text": "40",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1714, 2469, 2012, 2475, 2011, 2532, 1714, 2528],
+            "text": "Kroktjernet",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2309, 2477, 2792, 2479, 2792, 2539, 2308, 2537],
+          "text": "(0598787 6674521)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2311, 2477, 2539, 2480, 2538, 2538, 2309, 2539],
+            "text": "(0598787",
+            "confidence": 0.762
+          }, {
+            "boundingBox": [2552, 2480, 2790, 2480, 2789, 2540, 2550, 2538],
+            "text": "6674521)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [382, 2638, 892, 2647, 891, 2700, 381, 2691],
+          "text": "17 Stubdalskampen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [384, 2638, 439, 2639, 436, 2693, 382, 2692],
+            "text": "17",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [461, 2639, 878, 2649, 876, 2700, 458, 2694],
+            "text": "Stubdalskampen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1021, 2643, 1527, 2644, 1526, 2705, 1021, 2703],
+          "text": "(0578122 6665473)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1022, 2645, 1261, 2644, 1261, 2703, 1024, 2705],
+            "text": "(0578122",
+            "confidence": 0.992
+          }, {
+            "boundingBox": [1273, 2644, 1525, 2647, 1523, 2705, 1272, 2703],
+            "text": "6665473)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1639, 2593, 2048, 2602, 2047, 2661, 1639, 2654],
+          "text": "41 Raudfjell 410",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1639, 2594, 1702, 2596, 1702, 2656, 1639, 2654],
+            "text": "41",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1713, 2597, 1944, 2602, 1944, 2661, 1714, 2657],
+            "text": "Raudfjell",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1956, 2602, 2042, 2602, 2042, 2661, 1955, 2661],
+            "text": "410",
+            "confidence": 0.998
+          }]
+        }, {
+          "boundingBox": [2287, 2605, 2801, 2606, 2801, 2667, 2287, 2665],
+          "text": "(0610088 6669357)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2287, 2606, 2533, 2606, 2533, 2667, 2289, 2666],
+            "text": "(0610088",
+            "confidence": 0.992
+          }, {
+            "boundingBox": [2544, 2606, 2799, 2607, 2798, 2667, 2545, 2667],
+            "text": "6669357)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [381, 2765, 896, 2764, 896, 2823, 381, 2823],
+          "text": "18 Bleiksjøflaka 576",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [384, 2765, 439, 2766, 437, 2824, 382, 2823],
+            "text": "18",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [459, 2766, 781, 2766, 779, 2824, 457, 2824],
+            "text": "Bleiksjøflaka",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [793, 2766, 890, 2765, 889, 2824, 791, 2824],
+            "text": "576",
+            "confidence": 0.997
+          }]
+        }, {
+          "boundingBox": [1029, 2767, 1547, 2771, 1546, 2832, 1029, 2829],
+          "text": "(0584227 6666639)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1030, 2768, 1275, 2771, 1272, 2829, 1029, 2830],
+            "text": "(0584227",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1287, 2771, 1546, 2773, 1541, 2832, 1284, 2829],
+            "text": "6666639)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1639, 2725, 2008, 2733, 2007, 2787, 1639, 2780],
+          "text": "42 Port Arthur",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1640, 2726, 1702, 2727, 1701, 2782, 1640, 2779],
+            "text": "42",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1712, 2727, 1821, 2730, 1820, 2785, 1712, 2782],
+            "text": "Port",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1832, 2730, 2006, 2733, 2003, 2787, 1830, 2786],
+            "text": "Arthur",
+            "confidence": 0.996
+          }]
+        }, {
+          "boundingBox": [2288, 2733, 2789, 2733, 2788, 2793, 2288, 2791],
+          "text": "(0604817 6667084)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2289, 2733, 2525, 2734, 2526, 2793, 2291, 2792],
+            "text": "(0604817",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2536, 2734, 2789, 2734, 2789, 2794, 2538, 2793],
+            "text": "6667084)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [382, 2889, 696, 2891, 695, 2945, 382, 2943],
+          "text": "19 Svesvika",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [387, 2890, 444, 2891, 443, 2945, 385, 2945],
+            "text": "19",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [467, 2892, 687, 2893, 689, 2945, 466, 2944],
+            "text": "Svesvika",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1031, 2893, 1521, 2899, 1521, 2958, 1031, 2951],
+          "text": "(0588720 6680311)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1032, 2893, 1275, 2897, 1274, 2955, 1032, 2952],
+            "text": "(0588720",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1292, 2897, 1522, 2900, 1520, 2959, 1290, 2956],
+            "text": "6680311)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1634, 2851, 2237, 2858, 2236, 2917, 1634, 2911],
+          "text": "43 Der Skarudhytta sto",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1635, 2851, 1698, 2852, 1697, 2913, 1634, 2912],
+            "text": "43",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1710, 2852, 1811, 2853, 1809, 2915, 1709, 2914],
+            "text": "Der",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [1823, 2853, 2125, 2858, 2121, 2917, 1821, 2915],
+            "text": "Skarudhytta",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2137, 2859, 2221, 2860, 2216, 2917, 2133, 2917],
+            "text": "sto",
+            "confidence": 0.998
+          }]
+        }, {
+          "boundingBox": [2277, 2860, 2796, 2861, 2796, 2920, 2277, 2918],
+          "text": "(0612532 6656362)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2280, 2860, 2519, 2862, 2519, 2919, 2283, 2920],
+            "text": "(0612532",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2531, 2862, 2794, 2862, 2791, 2921, 2530, 2919],
+            "text": "6656362)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [385, 3011, 806, 3013, 806, 3071, 385, 3070],
+          "text": "20 «Gullfax» ved",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [388, 3012, 450, 3013, 450, 3071, 389, 3071],
+            "text": "20",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [461, 3013, 688, 3015, 688, 3072, 462, 3071],
+            "text": "«Gullfax»",
+            "confidence": 0.790
+          }, {
+            "boundingBox": [700, 3015, 799, 3014, 798, 3072, 700, 3072],
+            "text": "ved",
+            "confidence": 0.998
+          }]
+        }, {
+          "boundingBox": [1637, 2978, 2005, 2981, 2004, 3041, 1637, 3035],
+          "text": "44 )Gjersjøelva",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1641, 2979, 1697, 2979, 1694, 3036, 1637, 3034],
+            "text": "44",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1708, 2979, 2002, 2983, 1999, 3041, 1705, 3036],
+            "text": ")Gjersjøelva",
+            "confidence": 0.826
+          }]
+        }, {
+          "boundingBox": [2304, 2986, 2793, 2990, 2792, 3048, 2304, 3043],
+          "text": "(0599148 6633433)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2304, 2987, 2534, 2988, 2534, 3045, 2304, 3043],
+            "text": "(0599148",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2546, 2988, 2793, 2990, 2792, 3049, 2546, 3045],
+            "text": "6633433)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [476, 3095, 922, 3091, 923, 3147, 476, 3151],
+          "text": "opplysningsskiltet",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [477, 3098, 923, 3091, 922, 3148, 477, 3151],
+            "text": "opplysningsskiltet",
+            "confidence": 0.985
+          }]
+        }, {
+          "boundingBox": [1015, 3092, 1529, 3098, 1528, 3158, 1015, 3151],
+          "text": "(0590385 6674122)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1022, 3093, 1280, 3096, 1280, 3153, 1023, 3152],
+            "text": "(0590385",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1293, 3096, 1529, 3100, 1528, 3158, 1293, 3153],
+            "text": "6674122)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1637, 3099, 1985, 3104, 1984, 3164, 1635, 3156],
+          "text": "45 Hoppet på",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1640, 3099, 1699, 3102, 1695, 3155, 1636, 3151],
+            "text": "45",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [1710, 3102, 1902, 3105, 1899, 3164, 1706, 3156],
+            "text": "Hoppet",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1912, 3105, 1979, 3105, 1976, 3164, 1909, 3164],
+            "text": "på",
+            "confidence": 0.999
+          }]
+        }, {
+          "boundingBox": [390, 3213, 979, 3213, 979, 3274, 390, 3273],
+          "text": "21 Bekkeløpet nord for",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [394, 3216, 452, 3216, 452, 3272, 393, 3272],
+            "text": "21",
+            "confidence": 0.997
+          }, {
+            "boundingBox": [463, 3216, 753, 3215, 755, 3274, 463, 3272],
+            "text": "Bekkeløpet",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [764, 3215, 881, 3214, 884, 3275, 766, 3274],
+            "text": "nord",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [892, 3214, 974, 3213, 977, 3275, 895, 3275],
+            "text": "for",
+            "confidence": 0.997
+          }]
+        }, {
+          "boundingBox": [1715, 3175, 2082, 3181, 2081, 3235, 1715, 3230],
+          "text": "Kirkerudkollen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1716, 3176, 2072, 3181, 2071, 3236, 1715, 3231],
+            "text": "Kirkerudkollen",
+            "confidence": 0.979
+          }]
+        }, {
+          "boundingBox": [2291, 3183, 2759, 3191, 2758, 3253, 2291, 3244],
+          "text": "(0611121 6642698)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2291, 3183, 2487, 3186, 2487, 3247, 2294, 3246],
+            "text": "(0611121",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2499, 3186, 2759, 3194, 2756, 3253, 2500, 3247],
+            "text": "6642698)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [473, 3291, 923, 3292, 923, 3350, 473, 3349],
+          "text": "Grimstjernsputten",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [473, 3293, 917, 3293, 912, 3351, 475, 3348],
+            "text": "Grimstjernsputten",
+            "confidence": 0.984
+          }]
+        }, {
+          "boundingBox": [1037, 3292, 1543, 3295, 1542, 3353, 1036, 3349],
+          "text": "(0589784 6673030)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1037, 3292, 1276, 3294, 1274, 3349, 1037, 3348],
+            "text": "(0589784",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1288, 3294, 1544, 3295, 1540, 3354, 1286, 3349],
+            "text": "6673030)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1629, 3294, 2024, 3303, 2023, 3358, 1628, 3348],
+          "text": "46 «Ørneredet»",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1632, 3294, 1696, 3296, 1693, 3351, 1628, 3350],
+            "text": "46",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1707, 3296, 2024, 3305, 2019, 3358, 1703, 3352],
+            "text": "«Ørneredet»",
+            "confidence": 0.780
+          }]
+        }, {
+          "boundingBox": [2274, 3307, 2815, 3318, 2813, 3383, 2273, 3370],
+          "text": "(0609009 (6634539)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2275, 3308, 2527, 3312, 2524, 3375, 2273, 3371],
+            "text": "(0609009",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2539, 3312, 2814, 3321, 2809, 3383, 2536, 3375],
+            "text": "(6634539)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [386, 3412, 924, 3409, 925, 3467, 386, 3472],
+          "text": "22 Pershusfjellet 649",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [392, 3413, 453, 3413, 450, 3473, 389, 3473],
+            "text": "22",
+            "confidence": 0.998
+          }, {
+            "boundingBox": [465, 3414, 808, 3412, 806, 3469, 462, 3473],
+            "text": "Pershusfjellet",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [820, 3412, 925, 3410, 924, 3467, 818, 3469],
+            "text": "649",
+            "confidence": 0.997
+          }]
+        }, {
+          "boundingBox": [1037, 3411, 1539, 3415, 1538, 3475, 1037, 3469],
+          "text": "(0583563 6672992)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1038, 3412, 1278, 3413, 1277, 3470, 1039, 3470],
+            "text": "(0583563",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1289, 3413, 1538, 3417, 1536, 3476, 1288, 3470],
+            "text": "6672992)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1629, 3415, 2147, 3432, 2145, 3487, 1627, 3469],
+          "text": "47 Dammyrdammen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1632, 3415, 1693, 3417, 1688, 3471, 1627, 3467],
+            "text": "47",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1704, 3417, 2133, 3432, 2129, 3487, 1699, 3471],
+            "text": "Dammyrdammen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2269, 3434, 2769, 3443, 2768, 3503, 2269, 3492],
+          "text": "(0609581 6622318)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2270, 3435, 2510, 3437, 2509, 3499, 2271, 3493],
+            "text": "(0609581",
+            "confidence": 0.993
+          }, {
+            "boundingBox": [2522, 3437, 2768, 3446, 2765, 3504, 2520, 3499],
+            "text": "6622318)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [386, 3539, 890, 3536, 891, 3596, 386, 3599],
+          "text": "23 Nedre Skjortjern",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [391, 3541, 453, 3540, 451, 3598, 390, 3599],
+            "text": "23",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [465, 3540, 631, 3538, 628, 3597, 463, 3598],
+            "text": "Nedre",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [642, 3538, 888, 3537, 885, 3598, 640, 3597],
+            "text": "Skjortjern",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1037, 3533, 1537, 3533, 1537, 3593, 1037, 3592],
+          "text": "(0587940 6670280)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1038, 3537, 1272, 3535, 1272, 3592, 1038, 3589],
+            "text": "(0587940",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [1287, 3535, 1537, 3534, 1538, 3594, 1287, 3592],
+            "text": "6670280)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1632, 3536, 2079, 3547, 2078, 3605, 1630, 3595],
+          "text": "48 Hebekkmåsan",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1633, 3537, 1691, 3538, 1688, 3596, 1631, 3596],
+            "text": "48",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1702, 3538, 2070, 3549, 2067, 3605, 1700, 3596],
+            "text": "Hebekkmåsan",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2273, 3557, 2796, 3567, 2795, 3629, 2273, 3617],
+          "text": "(0602056 6623084)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2273, 3557, 2522, 3562, 2522, 3623, 2274, 3618],
+            "text": "(0602056",
+            "confidence": 0.995
+          }, {
+            "boundingBox": [2535, 3562, 2794, 3568, 2793, 3630, 2535, 3623],
+            "text": "6623084)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [387, 3664, 834, 3660, 835, 3717, 388, 3725],
+          "text": "24 Spålsdammen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [390, 3665, 455, 3665, 457, 3725, 392, 3726],
+            "text": "24",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [468, 3664, 828, 3660, 829, 3715, 469, 3725],
+            "text": "Spålsdammen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [1039, 3657, 1518, 3657, 1518, 3714, 1039, 3714],
+          "text": "(0585118 6669027)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1040, 3661, 1251, 3657, 1250, 3714, 1040, 3713],
+            "text": "(0585118",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [1262, 3657, 1516, 3659, 1514, 3715, 1261, 3714],
+            "text": "6669027)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1625, 3659, 2008, 3669, 2007, 3721, 1624, 3711],
+          "text": "49 Prekestolen",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1629, 3660, 1690, 3662, 1689, 3714, 1627, 3713],
+            "text": "49",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [1701, 3662, 1999, 3669, 1997, 3722, 1700, 3714],
+            "text": "Prekestolen",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2270, 3677, 2731, 3690, 2730, 3752, 2269, 3738],
+          "text": "(0611347 6622611)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2273, 3678, 2483, 3686, 2479, 3743, 2269, 3737],
+            "text": "(0611347",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2495, 3686, 2730, 3690, 2725, 3753, 2490, 3744],
+            "text": "6622611)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [392, 3781, 945, 3772, 946, 3832, 392, 3841],
+          "text": "25 Fiskeløysåsen 370",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [397, 3781, 456, 3780, 454, 3841, 395, 3841],
+            "text": "25",
+            "confidence": 0.999
+          }, {
+            "boundingBox": [468, 3780, 829, 3775, 826, 3835, 466, 3841],
+            "text": "Fiskeløysåsen",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [841, 3774, 936, 3772, 933, 3834, 839, 3835],
+            "text": "370",
+            "confidence": 0.997
+          }]
+        }, {
+          "boundingBox": [1032, 3773, 1530, 3772, 1531, 3830, 1032, 3832],
+          "text": "(0594693 6670321)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1032, 3775, 1277, 3773, 1277, 3831, 1033, 3833],
+            "text": "(0594693",
+            "confidence": 0.991
+          }, {
+            "boundingBox": [1289, 3773, 1528, 3774, 1527, 3832, 1289, 3831],
+            "text": "6670321)",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [1628, 3776, 1908, 3782, 1906, 3834, 1626, 3824],
+          "text": "50 Salstein",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [1631, 3776, 1685, 3779, 1683, 3825, 1629, 3821],
+            "text": "50",
+            "confidence": 0.996
+          }, {
+            "boundingBox": [1709, 3779, 1895, 3782, 1894, 3834, 1708, 3827],
+            "text": "Salstein",
+            "confidence": 0.995
+          }]
+        }, {
+          "boundingBox": [2266, 3792, 2764, 3806, 2762, 3869, 2266, 3854],
+          "text": "(0601324 6620201)",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2266, 3793, 2496, 3801, 2496, 3863, 2267, 3855],
+            "text": "(0601324",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2508, 3802, 2760, 3806, 2760, 3869, 2508, 3863],
+            "text": "6620201)",
+            "confidence": 0.994
+          }]
+        }, {
+          "boundingBox": [2064, 4012, 2875, 4024, 2874, 4080, 2063, 4062],
+          "text": "KJENTMANNSHÅNDBOK 2020-2023 123",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2064, 4013, 2533, 4023, 2533, 4072, 2063, 4058],
+            "text": "KJENTMANNSHÅNDBOK",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2543, 4023, 2759, 4025, 2760, 4078, 2543, 4073],
+            "text": "2020-2023",
+            "confidence": 0.994
+          }, {
+            "boundingBox": [2781, 4025, 2863, 4025, 2865, 4081, 2782, 4079],
+            "text": "123",
+            "confidence": 0.998
+          }]
+        }, {
+          "boundingBox": [2138, 4050, 2258, 4047, 2258, 4085, 2138, 4087],
+          "text": "---",
+          "appearance": {
+            "style": {
+              "name": "other",
+              "confidence": 0.878
+            }
+          },
+          "words": [{
+            "boundingBox": [2139, 4050, 2242, 4048, 2243, 4086, 2139, 4088],
+            "text": "---",
+            "confidence": 0.441
+          }]
+        }]
+      }]
+    }
+  }
